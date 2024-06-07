@@ -1,4 +1,4 @@
-![MERN Stack web developer](https://media.licdn.com/dms/image/D5616AQF6sOfYZDO3-g/profile-displaybackgroundimage-shrink_350_1400/0/1691917829082?e=1715212800&v=beta&t=kjJ4EKyWEIVTPj7pFBPPTYoHkc38mqNXbWypTII_bsg)
+![MERN Stack web developer](https://github.com/faridul22/faridul22/blob/main/my_profile_cover.jpeg)
 ### Hi there 👋, I'm MD Farid
 #### MERN Stack web developer
 
